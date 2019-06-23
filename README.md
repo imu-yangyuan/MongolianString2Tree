@@ -4,8 +4,8 @@
 
 - 界面1
 
-![Image text](https://raw.githubusercontent.com/imu-yangyuan/MongolianString2Tree/master/screenshot/01.jpg)
+![Image text](https://raw.githubusercontent.com/yangyuan6/MongolianString2Tree/master/screenshot/01.jpg)
 
 - 界面2
 
-![Image text](https://raw.githubusercontent.com/imu-yangyuan/MongolianString2Tree/master/screenshot/02.png)
+![Image text](https://raw.githubusercontent.com/yangyuan6/MongolianString2Tree/master/screenshot/02.png)
